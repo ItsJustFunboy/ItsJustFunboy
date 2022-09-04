@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ItsJustFunboy
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning C++ and luau
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me - you can't yet
