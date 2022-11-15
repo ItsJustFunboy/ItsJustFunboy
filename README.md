@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Artem
-- 👀 I’m interested in game development and computer hardware
+
